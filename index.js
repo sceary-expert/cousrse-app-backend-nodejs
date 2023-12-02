@@ -68,7 +68,7 @@ const courses = [
     instructor: 'Jane Smith',
     description: 'Explore the basics of web development, including HTML, CSS, and JavaScript.',
     enrollmentStatus: 'Closed',
-    thumbnail: 'your.image.here',
+    thumbnail: 'https://images.unsplash.com/photo-1552308995-2baac1ad5490?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHJlYWN0fGVufDB8fDB8fHww',
     duration: '6 weeks',
     schedule: 'Mondays and Wednesdays, 7:00 PM - 9:00 PM',
     location: 'In-Person',
