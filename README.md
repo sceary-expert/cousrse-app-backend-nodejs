@@ -16,21 +16,17 @@ Before running the project, ensure you have the following installed:
 
 - Node.js: Download Node.js
 ## Installation
-- Clone the repository:
-
-  `git clone https://github.com/your-username/course-app.git`
+- Clone the repository:  
+`git clone https://github.com/your-username/course-app.git`
   
 - Navigate to the project directory:
-
-
 `cd course-app`
 
 - Install dependencies:
-
 `npm install`
 
 ## Usage
-- Start the development server:
+Start the development server:
 `npm start`
 
 Open your browser and go to http://localhost:3000 to view the app.
